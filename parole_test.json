@@ -1,0 +1,1480 @@
+{
+    "results":[
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "05/31/2015", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "04/10/2013", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "10/08/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "D", 
+            "crime": "BURGLARY 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "FRANKLIN", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "02/15/1990", 
+          "Definition of Date Received (Current)": "09/27/2012", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "04/10/13 PAROLE DIV OF PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "09/27/2012", 
+          "Definition of DIN (Department Identification Number)": "12A4367", 
+          "Definition of Race / Ethnicity": "WHITE", 
+          "Inmate Name": "WOODS, JUSTIN R", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "00802794M"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0004 Years, 06 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "12/16/2015", 
+          "Definition of Earliest Release Date": "06/16/2014", 
+          "Definition of Parole Hearing Type": "REAPPEARANCE", 
+          "Definition of Parole Eligibility Date": "12/16/2012", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "CONDITIONAL RELEASE DATE", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "06/16/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "08/2014"
+        }, 
+        "crimes": [
+          {
+            "class": "D", 
+            "crime": "CRIM POSS FORGED INST 2ND"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "QUEENS", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "04/01/1964", 
+          "Definition of Date Received (Current)": "12/02/2011", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "NEW COMMITMENT", 
+          "Definition of Date Received (Original)": "12/02/2011", 
+          "Definition of DIN (Department Identification Number)": "11R3814", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "BROWN, VINCENT", 
+          "Definition of Custody Status": "IN CUSTODY"
+        }
+      }
+    ], 
+    "nysid": "09142126L"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0009 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "11/18/2017", 
+          "Definition of Earliest Release Date": "11/18/2014", 
+          "Definition of Parole Hearing Type": "REAPPEARANCE", 
+          "Definition of Parole Eligibility Date": "11/18/2011", 
+          "Definition of Aggregate Minimum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "CONDITIONAL RELEASE DATE", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "11/18/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "01/2015"
+        }, 
+        "crimes": [
+          {
+            "class": "C", 
+            "crime": "ARSON 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "CLINTON", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "02/24/1984", 
+          "Definition of Date Received (Current)": "07/16/2009", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "NEW COMMITMENT", 
+          "Definition of Date Received (Original)": "07/16/2009", 
+          "Definition of DIN (Department Identification Number)": "09A3640", 
+          "Definition of Race / Ethnicity": "WHITE", 
+          "Inmate Name": "CARD, MATTHEW J", 
+          "Definition of Custody Status": "IN CUSTODY"
+        }
+      }
+    ], 
+    "nysid": "09348320Y"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0025 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "07/14/2021", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "OPEN DATE/6 MO AFTER REAPPEARANCE", 
+          "Definition of Parole Eligibility Date": "01/14/2009", 
+          "Definition of Aggregate Minimum Sentence": "0012 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "03/14/2013", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "03/2013"
+        }, 
+        "crimes": [
+          {
+            "class": "B", 
+            "crime": "ATT MURDER 2ND"
+          }, 
+          {
+            "class": "B", 
+            "crime": "BURGLARY 1ST"
+          }, 
+          {
+            "class": "D", 
+            "crime": "ASSAULT 2ND"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "QUEENS", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "08/24/1962", 
+          "Definition of Date Received (Current)": "08/20/1997", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "11/05/12 PAROLE DIV OF PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "08/20/1997", 
+          "Definition of DIN (Department Identification Number)": "97A5338", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "SYNDOR, WILLIE", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0004 Years, 06 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "12/09/1991", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "07/18/1991", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "C", 
+            "crime": "ATT ROBBERY 1ST"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "NEW YORK", 
+          "Definition of Housing / Releasing Facility": "DOWNSTATE", 
+          "Date of Birth": "08/24/1962", 
+          "Definition of Date Received (Current)": "06/25/1991", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "07/18/91 PAROLE - COND REL OTHER", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "03/10/1987", 
+          "Definition of DIN (Department Identification Number)": "87A1845", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "SYDNOR, WILLIE", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "05675774R"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0009 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "06/17/2017", 
+          "Definition of Earliest Release Date": "06/17/2014", 
+          "Definition of Parole Hearing Type": "REAPPEARANCE", 
+          "Definition of Parole Eligibility Date": "08/05/2013", 
+          "Definition of Aggregate Minimum Sentence": "0005 Years, 01 Months, 18 Days", 
+          "Definition of Earliest Release Type": "CONDITIONAL RELEASE DATE", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "06/17/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "04/2015"
+        }, 
+        "crimes": [
+          {
+            "class": "C", 
+            "crime": "PROM PROSTITUTION 2ND"
+          }, 
+          {
+            "class": "D", 
+            "crime": "ASSAULT 2ND"
+          }, 
+          {
+            "class": "E", 
+            "crime": "ATT PERJURY 1ST"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "QUEENS", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "07/22/1980", 
+          "Definition of Date Received (Current)": "09/10/2010", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "NEW COMMITMENT", 
+          "Definition of Date Received (Original)": "09/10/2010", 
+          "Definition of DIN (Department Identification Number)": "10R2885", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "REED, TERRENCE", 
+          "Definition of Custody Status": "IN CUSTODY"
+        }
+      }
+    ], 
+    "nysid": "08807338M"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0004 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "06/19/2016", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "MERIT APPR OPEN DATE/6 MO AFT MERT APPEAR", 
+          "Definition of Parole Eligibility Date": "06/19/2014", 
+          "Definition of Aggregate Minimum Sentence": "0002 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "02/19/2015", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "04/2014"
+        }, 
+        "crimes": [
+          {
+            "class": "D", 
+            "crime": "BURGLARY 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "BRONX", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "12/01/1967", 
+          "Definition of Date Received (Current)": "08/03/2012", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "02/18/14 MERIT RELEASE TO PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "08/03/2012", 
+          "Definition of DIN (Department Identification Number)": "12A3518", 
+          "Definition of Race / Ethnicity": "HISPANIC", 
+          "Inmate Name": "VIRUET, ANTHONY", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0006 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "12/27/2011", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "01/29/2002", 
+          "Definition of Aggregate Minimum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "NONE", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "C", 
+            "crime": "ATT CRIM SALE CONTR SUBSTANCE 3RD"
+          }, 
+          {
+            "class": "E", 
+            "crime": "ATT ROBBERY 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "BRONX", 
+          "Definition of Housing / Releasing Facility": "CLINTON", 
+          "Date of Birth": "12/01/1967", 
+          "Definition of Date Received (Current)": "03/24/2011", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "12/27/11 DISCH - MAXIMUM EXPIRATION", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "08/20/1999", 
+          "Definition of DIN (Department Identification Number)": "99A4622", 
+          "Definition of Race / Ethnicity": "HISPANIC", 
+          "Inmate Name": "VIRUET, ANTHONY", 
+          "Definition of Custody Status": "DISCHARGED"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0015 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "03/27/2004", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "APPROVED OPEN DATE/6 MO AFT INIT APPEAR", 
+          "Definition of Parole Eligibility Date": "09/27/1996", 
+          "Definition of Aggregate Minimum Sentence": "0007 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "03/27/1999", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "01/1997"
+        }, 
+        "crimes": [
+          {
+            "class": "B", 
+            "crime": "ROBBERY 1ST"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "BRONX", 
+          "Definition of Housing / Releasing Facility": "CLINTON", 
+          "Date of Birth": "12/01/1967", 
+          "Definition of Date Received (Current)": "05/05/1989", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "10/01/96 PAROLE - OTHER", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "05/05/1989", 
+          "Definition of DIN (Department Identification Number)": "89A4626", 
+          "Definition of Race / Ethnicity": "HISPANIC", 
+          "Inmate Name": "VIRUET, ANTHONY", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "05655727H"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "07/18/2015", 
+          "Definition of Earliest Release Date": "07/18/2014", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "01/18/2014", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "CONDITIONAL RELEASE DATE", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "07/18/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "E", 
+            "crime": "ATT ROBBERY 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "KINGS", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "03/13/1989", 
+          "Definition of Date Received (Current)": "09/25/2012", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "NEW COMMITMENT", 
+          "Definition of Date Received (Original)": "09/25/2012", 
+          "Definition of DIN (Department Identification Number)": "12A4324", 
+          "Definition of Race / Ethnicity": "HISPANIC", 
+          "Inmate Name": "CINTRON, JOSEPH", 
+          "Definition of Custody Status": "IN CUSTODY"
+        }
+      }
+    ], 
+    "nysid": "02645730P"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "02/17/2015", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "REAPPEARANCE", 
+          "Definition of Parole Eligibility Date": "08/17/2013", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "02/17/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "04/2014"
+        }, 
+        "crimes": [
+          {
+            "class": "E", 
+            "crime": "ATT CRIM POSS FORGED INST 2ND"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "ORANGE", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "07/02/1962", 
+          "Definition of Date Received (Current)": "12/24/2012", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "02/14/14 PAROLE - COND REL TO PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "12/24/2012", 
+          "Definition of DIN (Department Identification Number)": "12A5672", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "INGRAM, LLOYD G", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0018 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "06/30/2020", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "PAROLE VIOLATOR ASSESSED EXPIRATION", 
+          "Definition of Parole Eligibility Date": "03/30/2008", 
+          "Definition of Aggregate Minimum Sentence": "0009 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "05/06/2010", 
+          "Definition of Conditional Release Date": "05/30/2013", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "03/2010"
+        }, 
+        "crimes": [
+          {
+            "class": "B", 
+            "crime": "CRIM POSS CONTR SUBSTANCE 3RD"
+          }, 
+          {
+            "class": "D", 
+            "crime": "CRIM SALE CONTR SUBSTANCE 5TH"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "NEW YORK", 
+          "Definition of Housing / Releasing Facility": "EDGECOMBE", 
+          "Date of Birth": "07/02/1962", 
+          "Definition of Date Received (Current)": "02/23/2010", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "03/25/10 PAROLE DIV OF PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "06/30/2000", 
+          "Definition of DIN (Department Identification Number)": "00A3394", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "INGRAM, LLOYD", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0006 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "06/20/2002", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "OPEN DATE/6 MO AFTER REAPPEARANCE", 
+          "Definition of Parole Eligibility Date": "07/12/1997", 
+          "Definition of Aggregate Minimum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "10/27/1999", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "09/1998"
+        }, 
+        "crimes": [
+          {
+            "class": "C", 
+            "crime": "ATT CRIM SALE CONTR SUBSTANCE 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "BRONX", 
+          "Definition of Housing / Releasing Facility": "QUEENSBORO", 
+          "Date of Birth": "07/07/1962", 
+          "Definition of Date Received (Current)": "06/01/1995", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "04/09/98 PAROLE DIV OF PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "06/01/1995", 
+          "Definition of DIN (Department Identification Number)": "95R4422", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "INGRAM, GEORGE", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0006 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "06/26/1996", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "APPROVED OPEN DATE/6 MO AFT INIT APPEAR", 
+          "Definition of Parole Eligibility Date": "", 
+          "Definition of Aggregate Minimum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "08/31/1995", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "11/1993"
+        }, 
+        "crimes": [
+          {
+            "class": "B", 
+            "crime": "CRIM SALE CONTR SUBSTANCE 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "BRONX", 
+          "Definition of Housing / Releasing Facility": "FULTON", 
+          "Date of Birth": "07/02/1964", 
+          "Definition of Date Received (Current)": "06/14/1991", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "07/20/93 PAROLE DIV OF PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "06/14/1991", 
+          "Definition of DIN (Department Identification Number)": "91A4683", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "INGRAM, LLOYD", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "04375490J"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0006 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "05/30/2018", 
+          "Definition of Earliest Release Date": "06/02/2014", 
+          "Definition of Parole Hearing Type": "APPROVED OPEN DATE/6 MO AFT INIT APPEAR", 
+          "Definition of Parole Eligibility Date": "05/30/2014", 
+          "Definition of Aggregate Minimum Sentence": "0002 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "OPEN DATE FOR PAROLE RELEASE", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "05/30/2016", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "07/2014"
+        }, 
+        "crimes": [
+          {
+            "class": "D", 
+            "crime": "ROBBERY 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "ALBANY", 
+          "Definition of Housing / Releasing Facility": "BARE HILL", 
+          "Date of Birth": "06/10/1974", 
+          "Definition of Date Received (Current)": "10/29/2012", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "NEW COMMITMENT", 
+          "Definition of Date Received (Original)": "10/29/2012", 
+          "Definition of DIN (Department Identification Number)": "12A4855", 
+          "Definition of Race / Ethnicity": "WHITE", 
+          "Inmate Name": "LAROSE, DANIEL", 
+          "Definition of Custody Status": "IN CUSTODY"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "11/23/2001", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "APPROVED OPEN DATE/6 MO AFT INIT APPEAR", 
+          "Definition of Parole Eligibility Date": "05/23/2000", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "11/23/2000", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "09/2000"
+        }, 
+        "crimes": [
+          {
+            "class": "D", 
+            "crime": "ATT ROBBERY 2ND"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "ALBANY", 
+          "Definition of Housing / Releasing Facility": "MARCY", 
+          "Date of Birth": "06/10/1974", 
+          "Definition of Date Received (Current)": "02/03/1999", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "05/23/00 PAROLE DIV OF PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "02/03/1999", 
+          "Definition of DIN (Department Identification Number)": "99R0631", 
+          "Definition of Race / Ethnicity": "WHITE", 
+          "Inmate Name": "LAROSE, DANIEL", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "06912949L"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 06 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "07/20/2014", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "01/13/2014", 
+          "Definition of Aggregate Minimum Sentence": "0002 Years, 11 Months, 28 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "01/13/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "01/13/2016", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "C", 
+            "crime": "ATT CRIM POSS CONTR SUBSTANCE 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "DUTCHESS", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "04/27/1976", 
+          "Definition of Date Received (Current)": "12/06/2011", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "01/13/14 PAROLE - COND REL TO PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "12/06/2011", 
+          "Definition of DIN (Department Identification Number)": "11R3858", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "MIMA, KAREEF G", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0018 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "09/04/2013", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "REAPPEARANCE", 
+          "Definition of Parole Eligibility Date": "09/04/2001", 
+          "Definition of Aggregate Minimum Sentence": "0006 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "09/04/2007", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "07/2009"
+        }, 
+        "crimes": [
+          {
+            "class": "B", 
+            "crime": "MANSLAUGHTER 1ST"
+          }, 
+          {
+            "class": "B", 
+            "crime": "CRIM SALE CONTR SUBSTANCE 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "DUTCHESS", 
+          "Definition of Housing / Releasing Facility": "WALLKILL", 
+          "Date of Birth": "04/27/1976", 
+          "Definition of Date Received (Current)": "04/10/1996", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "09/04/07 PAROLE - COND REL TO PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "04/10/1996", 
+          "Definition of DIN (Department Identification Number)": "96A2163", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "MIMA, KAREEF", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "07370060N"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "07/22/2015", 
+          "Definition of Earliest Release Date": "06/22/2014", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "01/22/2014", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "CONDITIONAL RELEASE DATE", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "06/22/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "E", 
+            "crime": "ATT ASSAULT 2ND"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "SUFFOLK", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "09/30/1987", 
+          "Definition of Date Received (Current)": "05/09/2013", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "RETURN FROM PAROLE/COND REL", 
+          "Definition of Date Received (Original)": "05/09/2013", 
+          "Definition of DIN (Department Identification Number)": "13A2048", 
+          "Definition of Race / Ethnicity": "NATIVE AM", 
+          "Inmate Name": "MACK, ANDRE D", 
+          "Definition of Custody Status": "IN CUSTODY"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0004 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "11/29/2012", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "RELEASE CONDITIONS", 
+          "Definition of Parole Eligibility Date": "", 
+          "Definition of Aggregate Minimum Sentence": "0000 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "05/01/2012", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "05/01/2017", 
+          "Definition of Parole Hearing Date": "03/2012"
+        }, 
+        "crimes": [
+          {
+            "class": "C", 
+            "crime": "ATT ROBBERY 1ST"
+          }, 
+          {
+            "class": "D", 
+            "crime": "ASSAULT 2ND"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "SUFFOLK", 
+          "Definition of Housing / Releasing Facility": "WALLKILL", 
+          "Date of Birth": "09/30/1987", 
+          "Definition of Date Received (Current)": "06/23/2009", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "05/01/12 PAROLE - COND REL TO PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "06/23/2009", 
+          "Definition of DIN (Department Identification Number)": "09A3235", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "MACK, ANDRE D", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "03248467Q"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0002 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "11/09/2013", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "04/06/2013", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 08 Months, 16 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "04/06/2013", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "04/05/2015", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "C", 
+            "crime": "CRIM POSS CONTR SUBSTANCE 4TH"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "ORANGE", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "09/03/1979", 
+          "Definition of Date Received (Current)": "12/02/2011", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "04/05/13 PAROLE - COND REL TO PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "12/02/2011", 
+          "Definition of DIN (Department Identification Number)": "11A5308", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "COHALL, ANDREW V", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0008 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "07/01/2013", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "PAROLE VIOLATOR ASSESSED EXPIRATION", 
+          "Definition of Parole Eligibility Date": "12/19/2007", 
+          "Definition of Aggregate Minimum Sentence": "0002 Years, 08 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "06/23/2012", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "02/2011"
+        }, 
+        "crimes": [
+          {
+            "class": "D", 
+            "crime": "BURGLARY 3RD"
+          }, 
+          {
+            "class": "E", 
+            "crime": "AGGR UNLIC OPER VTL511.3 1ST"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "ORANGE", 
+          "Definition of Housing / Releasing Facility": "WILLARD", 
+          "Date of Birth": "09/03/1979", 
+          "Definition of Date Received (Current)": "08/23/2010", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "12/07/10 PAROLE DIV OF PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "08/04/2005", 
+          "Definition of DIN (Department Identification Number)": "05A3974", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "COHALL, ANDREW V", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "08126319L"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0005 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "03/07/2016", 
+          "Definition of Earliest Release Date": "07/07/2014", 
+          "Definition of Parole Hearing Type": "REAPPEARANCE", 
+          "Definition of Parole Eligibility Date": "09/07/2013", 
+          "Definition of Aggregate Minimum Sentence": "0002 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "CONDITIONAL RELEASE DATE", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "07/07/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "05/2015"
+        }, 
+        "crimes": [
+          {
+            "class": "D", 
+            "crime": "BURGLARY 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "ST. LAWRENCE", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "01/28/1985", 
+          "Definition of Date Received (Current)": "12/13/2011", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "NEW COMMITMENT", 
+          "Definition of Date Received (Original)": "12/13/2011", 
+          "Definition of DIN (Department Identification Number)": "11A5518", 
+          "Definition of Race / Ethnicity": "OTHER", 
+          "Inmate Name": "HARRISON, CORY R", 
+          "Definition of Custody Status": "IN CUSTODY"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "12/11/2006", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "12/13/2004", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "NONE", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "E", 
+            "crime": "ATT RAPE 2ND"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "FRANKLIN", 
+          "Definition of Housing / Releasing Facility": "ALTONA", 
+          "Date of Birth": "01/28/1985", 
+          "Definition of Date Received (Current)": "09/01/2006", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "12/11/06 DISCH - MAXIMUM EXPIRATION", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "07/13/2004", 
+          "Definition of DIN (Department Identification Number)": "04A3785", 
+          "Definition of Race / Ethnicity": "OTHER", 
+          "Inmate Name": "HARRISON, CORY", 
+          "Definition of Custody Status": "DISCHARGED"
+        }
+      }
+    ], 
+    "nysid": "01268007L"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "06/07/2013", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "PAROLE VIOLATOR ASSESSED EXPIRATION", 
+          "Definition of Parole Eligibility Date": "06/06/2011", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "NONE", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "01/2013"
+        }, 
+        "crimes": [
+          {
+            "class": "E", 
+            "crime": "ATT BURGLARY 3RD"
+          }, 
+          {
+            "class": "E", 
+            "crime": "DWI:ALCOHOL OR DRUGS 2 OFF"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "FRANKLIN", 
+          "Definition of Housing / Releasing Facility": "ULSTER", 
+          "Date of Birth": "08/13/1989", 
+          "Definition of Date Received (Current)": "12/28/2012", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "03/12/13 PAROLE DIV OF PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "03/10/2011", 
+          "Definition of DIN (Department Identification Number)": "11A1096", 
+          "Definition of Race / Ethnicity": "WHITE", 
+          "Inmate Name": "LANGDON, NATHAN L", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "00350557K"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0004 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "12/26/2013", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "05/28/2013", 
+          "Definition of Aggregate Minimum Sentence": "0003 Years, 05 Months, 02 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "05/28/2013", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "05/28/2018", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "D", 
+            "crime": "ASSAULT 2ND"
+          }, 
+          {
+            "class": "D", 
+            "crime": "RECKLESS ENDANGERMENT 1ST"
+          }, 
+          {
+            "class": "E", 
+            "crime": "FLEE OFFICER IN MOTOR VEH- 2ND"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "SUFFOLK", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "10/21/1975", 
+          "Definition of Date Received (Current)": "01/06/2011", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "05/28/13 PAROLE - COND REL TO PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "01/06/2011", 
+          "Definition of DIN (Department Identification Number)": "11A0048", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "LANGLEY, EDWARD E", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0004 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "11/14/2007", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "MERIT APPR OPEN DATE/6 MO AFT MERT APPEAR", 
+          "Definition of Parole Eligibility Date": "11/14/2005", 
+          "Definition of Aggregate Minimum Sentence": "0002 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "08/09/2007", 
+          "Definition of Conditional Release Date": "07/14/2006", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "11/2005"
+        }, 
+        "crimes": [
+          {
+            "class": "D", 
+            "crime": "CRIM SALE CONTR SUBSTANCE 5TH"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "NASSAU", 
+          "Definition of Housing / Releasing Facility": "BUTLER", 
+          "Date of Birth": "10/21/1975", 
+          "Definition of Date Received (Current)": "07/26/2004", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "07/12/05 MERIT RELEASE TO PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "07/26/2004", 
+          "Definition of DIN (Department Identification Number)": "04A4004", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "LANGLEY, EDWARD E", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "07605302Q"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0006 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "05/12/2015", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "REAPPEARANCE", 
+          "Definition of Parole Eligibility Date": "05/12/2012", 
+          "Definition of Aggregate Minimum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "05/12/2013", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "05/10/2016", 
+          "Definition of Parole Hearing Date": "07/2013"
+        }, 
+        "crimes": [
+          {
+            "class": "C", 
+            "crime": "GRAND LARCENY - NOT AUTO 2ND"
+          }, 
+          {
+            "class": "E", 
+            "crime": "PLACE FALSE BOMB-2ND"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "NEW YORK", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "10/03/1954", 
+          "Definition of Date Received (Current)": "12/02/2010", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "05/10/13 PAROLE - COND REL TO PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "12/02/2010", 
+          "Definition of DIN (Department Identification Number)": "10R3856", 
+          "Definition of Race / Ethnicity": "ASIAN/HISPANIC", 
+          "Inmate Name": "CHANG, JACK", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "09/21/1998", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "APPROVED DATE", 
+          "Definition of Parole Eligibility Date": "09/21/1996", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "09/21/1997", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "E", 
+            "crime": "SCHEME TO DEFRAUD 1ST"
+          }, 
+          {
+            "class": "C", 
+            "crime": "GRAND LARCENY - NOT AUTO 2ND"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "NEW YORK", 
+          "Definition of Housing / Releasing Facility": "QUEENSBORO", 
+          "Date of Birth": "10/03/1954", 
+          "Definition of Date Received (Current)": "10/06/1995", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "09/23/96 PAROLE DIV OF PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "10/06/1995", 
+          "Definition of DIN (Department Identification Number)": "95A7065", 
+          "Definition of Race / Ethnicity": "ASIAN/HISPANIC", 
+          "Inmate Name": "CHANG, JACK", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "04324360H"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0004 Years, 06 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "02/08/2016", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "APPROVED OPEN DATE/6 MO AFT INIT APPEAR", 
+          "Definition of Parole Eligibility Date": "02/08/2013", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "08/08/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "04/2013"
+        }, 
+        "crimes": [
+          {
+            "class": "B", 
+            "crime": "GRAND LARCENY - NOT AUTO 1ST"
+          }, 
+          {
+            "class": "E", 
+            "crime": "SCHEME TO DEFRAUD 1ST"
+          }, 
+          {
+            "class": "E", 
+            "crime": "FRAUD IN SALE OF SECURITIES"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "NEW YORK", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "09/16/1948", 
+          "Definition of Date Received (Current)": "04/27/2012", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "02/11/13 PAROLE DIV OF PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "04/27/2012", 
+          "Definition of DIN (Department Identification Number)": "12R1386", 
+          "Definition of Race / Ethnicity": "WHITE", 
+          "Inmate Name": "MAZZUTO, JOHN", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "08648189M"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0009 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "05/06/2018", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "APPROVED OPEN DATE/6 MO AFT INIT APPEAR", 
+          "Definition of Parole Eligibility Date": "05/06/2012", 
+          "Definition of Aggregate Minimum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "05/06/2015", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "07/2012"
+        }, 
+        "crimes": [
+          {
+            "class": "B", 
+            "crime": "ENTERPRISE CORRUPTION"
+          }, 
+          {
+            "class": "B", 
+            "crime": "ENTERPRISE CORRUPTION"
+          }, 
+          {
+            "class": "D", 
+            "crime": "IDENTITY THEFT 1ST"
+          }, 
+          {
+            "class": "D", 
+            "crime": "IDENTITY THEFT 1ST"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "QUEENS", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "04/29/1960", 
+          "Definition of Date Received (Current)": "01/08/2010", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "05/08/12 PAROLE - OTHER", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "01/08/2010", 
+          "Definition of DIN (Department Identification Number)": "10A0086", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "OSINOWO, JONES O", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "08422306Y"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "04/13/2015", 
+          "Definition of Earliest Release Date": "04/13/2014", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "10/13/2013", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "CONDITIONAL RELEASE DATE", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "04/13/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "E", 
+            "crime": "CRIM MISCHIEF 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "ALBANY", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "07/11/1971", 
+          "Definition of Date Received (Current)": "11/09/2012", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "NEW COMMITMENT", 
+          "Definition of Date Received (Original)": "11/09/2012", 
+          "Definition of DIN (Department Identification Number)": "12A5022", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "COLE, TYRONE", 
+          "Definition of Custody Status": "IN CUSTODY"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 06 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "02/24/2010", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "", 
+          "Definition of Aggregate Minimum Sentence": "0000 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "NONE", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "02/24/2010", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "C", 
+            "crime": "ATT CRIM SALE CONTR SUBSTANCE 3RD"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "ALBANY", 
+          "Definition of Housing / Releasing Facility": "WILLARD", 
+          "Date of Birth": "07/11/1971", 
+          "Definition of Date Received (Current)": "12/02/2008", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "03/17/09 PAROLE DIV OF PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "11/03/2005", 
+          "Definition of DIN (Department Identification Number)": "05A5555", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "COLE, TYRONE", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "04/21/1997", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "NONE", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "D", 
+            "crime": "CRIM SALE CONTR SUBSTANCE 5TH"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "ALBANY", 
+          "Definition of Housing / Releasing Facility": "ALTONA", 
+          "Date of Birth": "07/11/1971", 
+          "Definition of Date Received (Current)": "01/07/1997", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "04/21/97 DISCH - MAXIMUM EXPIRATION", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "01/10/1994", 
+          "Definition of DIN (Department Identification Number)": "94A0232", 
+          "Definition of Race / Ethnicity": "BLACK", 
+          "Inmate Name": "COLE, TYRONE", 
+          "Definition of Custody Status": "DISCHARGED"
+        }
+      }
+    ], 
+    "nysid": "05959412J"
+  }, 
+  {
+    "offenses": [
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0003 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "09/17/2015", 
+          "Definition of Earliest Release Date": "09/17/2014", 
+          "Definition of Parole Hearing Type": "FULL MAXIMUM", 
+          "Definition of Parole Eligibility Date": "03/17/2014", 
+          "Definition of Aggregate Minimum Sentence": "0001 Years, 06 Months, 00 Days", 
+          "Definition of Earliest Release Type": "CONDITIONAL RELEASE DATE", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "09/17/2014", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": ""
+        }, 
+        "crimes": [
+          {
+            "class": "E", 
+            "crime": "GRAND LARCENY - NOT AUTO 4TH"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "ORANGE", 
+          "Definition of Housing / Releasing Facility": "ADIRONDACK", 
+          "Date of Birth": "04/28/1975", 
+          "Definition of Date Received (Current)": "01/31/2013", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "NEW COMMITMENT", 
+          "Definition of Date Received (Original)": "01/31/2013", 
+          "Definition of DIN (Department Identification Number)": "13A0423", 
+          "Definition of Race / Ethnicity": "BLACK/HISPANIC", 
+          "Inmate Name": "MALDONADO, ANGEL", 
+          "Definition of Custody Status": "IN CUSTODY"
+        }
+      }, 
+      {
+        "sentence": {
+          "Definition of Aggregate Maximum Sentence": "0007 Years, 00 Months, 00 Days", 
+          "Definition of Maximum Expiration Date": "11/14/2002", 
+          "Definition of Earliest Release Date": "", 
+          "Definition of Parole Hearing Type": "RELEASE CONDITIONS", 
+          "Definition of Parole Eligibility Date": "", 
+          "Definition of Aggregate Minimum Sentence": "0000 Years, 00 Months, 00 Days", 
+          "Definition of Earliest Release Type": "", 
+          "Definition of Parole Board Discharge Date": "", 
+          "Definition of Conditional Release Date": "02/14/2002", 
+          "Definition of Maximum Expiration Date for Parole Supervision": "", 
+          "Definition of Post Release Supervision Maximum Expiration Date": "", 
+          "Definition of Parole Hearing Date": "02/2002"
+        }, 
+        "crimes": [
+          {
+            "class": "C", 
+            "crime": "ROBBERY 2ND"
+          }, 
+          {
+            "class": "C", 
+            "crime": "ATT BURGLARY 1ST"
+          }
+        ], 
+        "identifying": {
+          "Definition of County of Commitment": "NEW YORK", 
+          "Definition of Housing / Releasing Facility": "MOHAWK", 
+          "Date of Birth": "04/28/1973", 
+          "Definition of Date Received (Current)": "03/22/1996", 
+          "Definition of Latest Release Date / Type (Released Inmates Only)": "02/14/02 PAROLE - COND REL TO PAROLE", 
+          "Sex": "MALE", 
+          "Definition of Admission Type": "", 
+          "Definition of Date Received (Original)": "03/22/1996", 
+          "Definition of DIN (Department Identification Number)": "96A1775", 
+          "Definition of Race / Ethnicity": "HISPANIC", 
+          "Inmate Name": "MALDONADO, ANGEL", 
+          "Definition of Custody Status": "RELEASED"
+        }
+      }
+    ], 
+    "nysid": "06616000Y"
+  }
+]
+}
